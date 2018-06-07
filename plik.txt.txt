@@ -2,4 +2,5 @@ Zerowa linijka kodu
 Pierwsza linijka textu
 Druga linijka textu.
 Trzecia linia textu.
-Inna linijka>>>>>>>>>>>>>>>>>>>>>>>>
+Inna linijka||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||\\
