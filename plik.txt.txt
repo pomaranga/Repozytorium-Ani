@@ -1,5 +1,5 @@
 Zerowa linijka kodu
 Pierwsza linijka textu
-Druga linijka kodu
+Druga linijka textu.
 Trzecia linia textu.
 Inna linijka>>>>>>>>>>>>>>>>>>>>>>>>
