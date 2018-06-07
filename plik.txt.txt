@@ -1,3 +1,4 @@
+Zerowa linijka kodu
 Pierwsza linijka textu
-Druga linijka textu
+Druga linijka kodu
 Trzecia linia textu.
