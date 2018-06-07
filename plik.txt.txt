@@ -1,3 +1,4 @@
 Pierwsza linijka textu
 Druga linijka textu.
 Trzecia linia textu.
+Ostatnia zmiana.
